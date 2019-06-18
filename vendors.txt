@@ -1,5 +1,3 @@
-
-
-
 "Samsung, Inc" 
-"Lucent Business Systems CO" 
+"Lucent Business Systems CO"
+"Mountwhale, Inc"
